@@ -1,0 +1,22 @@
+{
+  "name": "ZSWTool",
+  "version": "0.1.0",
+  "summary": "A short description of ZSWTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/i_songwei@163.com/ZSWTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "i_songwei@163.com": "i_songwei@163.com"
+  },
+  "source": {
+    "git": "https://github.com/i_songwei@163.com/ZSWTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZSWTool/Classes/**/*"
+}

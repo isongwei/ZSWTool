@@ -1,0 +1,6 @@
+framework module ZSWTool {
+  umbrella header "ZSWTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
