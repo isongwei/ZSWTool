@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZSWTool_Tests' do
+  pod 'ZSWTool', :path => '../'
+  
+  
+end
